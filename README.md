@@ -6,7 +6,4 @@
   <img src="https://img.shields.io/twitter/follow/OkinBird.svg?style=social" style="max-width:100%;"/>
   </a>
 </div>
-<div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=Okinbird&style=plastic&color=blueviolet" alt=""/>
-</div>
 <h1 align="center"> Welcome, My name is Olayinka Eyebiokin </h1>
